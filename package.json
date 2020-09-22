@@ -12,7 +12,7 @@
   "dependencies": {
     "@actions/core": "^1.2.0",
     "async-retry": "^1.2.3",
-    "azure-pipelines-task-lib": "^2.8.0",
+    "azure-pipelines-task-lib": "^2.10.0",
     "cli-table3": "^0.5.1",
     "moment": "^2.24.0",
     "request": "^2.88.0",
