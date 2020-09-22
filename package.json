@@ -17,7 +17,7 @@
     "moment": "^2.24.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "typed-rest-client": "^1.2.0",
+    "typed-rest-client": "^1.7.3",
     "xmlbuilder": "^13.0.0"
   },
   "devDependencies": {
