@@ -16,7 +16,7 @@
     "cli-table3": "^0.5.1",
     "moment": "^2.24.0",
     "request": "^2.88.0",
-    "request-promise-native": "^1.0.7",
+    "request-promise-native": "^1.0.9",
     "typed-rest-client": "^1.2.0",
     "xmlbuilder": "^13.0.0"
   },
